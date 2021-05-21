@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Gayane96/React-TestTask.git/static/css/main.e35a1444.chunk.css",
+    "main.js": "/Gayane96/React-TestTask.git/static/js/main.33e95972.chunk.js",
+    "main.js.map": "/Gayane96/React-TestTask.git/static/js/main.33e95972.chunk.js.map",
+    "runtime-main.js": "/Gayane96/React-TestTask.git/static/js/runtime-main.cfdc3ab1.js",
+    "runtime-main.js.map": "/Gayane96/React-TestTask.git/static/js/runtime-main.cfdc3ab1.js.map",
+    "static/js/2.f2adb5d8.chunk.js": "/Gayane96/React-TestTask.git/static/js/2.f2adb5d8.chunk.js",
+    "static/js/2.f2adb5d8.chunk.js.map": "/Gayane96/React-TestTask.git/static/js/2.f2adb5d8.chunk.js.map",
+    "static/js/3.9037935b.chunk.js": "/Gayane96/React-TestTask.git/static/js/3.9037935b.chunk.js",
+    "static/js/3.9037935b.chunk.js.map": "/Gayane96/React-TestTask.git/static/js/3.9037935b.chunk.js.map",
+    "index.html": "/Gayane96/React-TestTask.git/index.html",
+    "static/css/main.e35a1444.chunk.css.map": "/Gayane96/React-TestTask.git/static/css/main.e35a1444.chunk.css.map",
+    "static/js/2.f2adb5d8.chunk.js.LICENSE.txt": "/Gayane96/React-TestTask.git/static/js/2.f2adb5d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfdc3ab1.js",
+    "static/js/2.f2adb5d8.chunk.js",
+    "static/css/main.e35a1444.chunk.css",
+    "static/js/main.33e95972.chunk.js"
+  ]
+}
